@@ -1,3 +1,6 @@
 # XMICRO-CF
 
-CompactFlash storage card for the XMICRO bus, featuring an IDE-mode CompactFlash interface, and a flexible real-time clock.
+[XMICRO](https://github.com/x-microsystems/xmicro-bus) card providing a CompactFlash card interface and real-time
+clock.
+
+[Datasheet](Documentation/XMICRO-CF.pdf)
